@@ -1,7 +1,7 @@
 # adventofcode.com/2019
 # december 1 2019
 # part 1
-
+#test
 import math
 
 # open file in readmode

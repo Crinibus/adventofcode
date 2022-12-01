@@ -1,7 +1,7 @@
 import pathlib
 
 
-def get_input():
+def get_input() -> list[str]:
     root_path = pathlib.Path(__file__).parent.absolute()
 
     with open(f"{root_path}/input.txt", "r") as input_file:

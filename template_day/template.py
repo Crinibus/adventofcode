@@ -10,11 +10,11 @@ def get_input() -> list[str]:
     return [line.strip() for line in input_raw]
 
 
-def get_answer_part_1(input_data):
+def get_answer_part_1(input_data: list[str]):
     pass
 
 
-def get_answer_part_2(input_data):
+def get_answer_part_2(input_data: list[str]):
     pass
 
 
